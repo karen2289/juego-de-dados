@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jumbutron{
+    margin-top: 10%;
+}
+button{
+    text-transform: uppercase;
+    margin-bottom: 2%;
+}
+.img{
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    background-color: red;
+    border-radius: 10px;
+}
+span{
+    margin-top: 2%;
+    text-transform: uppercase;
+}
