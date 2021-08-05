@@ -1,5 +1,10 @@
 # Dados
 
+![app-dados-mobile](https://user-images.githubusercontent.com/53599271/128397090-f1c12f22-abc5-472f-adb5-e260c0620fd0.PNG)
+
+![app-dados](https://user-images.githubusercontent.com/53599271/128397094-e4cffa1d-8288-4118-8a1b-68e93830786e.PNG)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
 
 ## Development server
